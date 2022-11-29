@@ -1,6 +1,6 @@
 /*
  * File: 13-insert_number.c
- * Auth: Steve Mwangi
+ * Auth: Matlowane Mokoena
  */
 
 #include "lists.h"
